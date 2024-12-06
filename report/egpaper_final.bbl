@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{asx}
+asx.com.au.
+\newblock \url{https://www.asx.com.au/blog/investor-update/2024/the--best--and-the--worst--months-for-shares}.
+\newblock [Accessed 04-12-2024].
+
+\bibitem{geeksforgeeksGatedRecurrent}
+{G}ated {R}ecurrent {U}nit {N}etworks - {G}eeksfor{G}eeks --- geeksforgeeks.org.
+\newblock \url{https://www.geeksforgeeks.org/gated-recurrent-unit-networks/}.
+\newblock [Accessed 01-12-2024].
+
+\bibitem{em360techWhatGated}
+{W}hat is a {G}ated {R}ecurent {U}nit ({G}{R}{U}) and {H}ow {D}oes it {W}ork? | {E}nterprise {T}ech {N}ews {E}{M}360{T}ech --- em360tech.com.
+\newblock \url{https://em360tech.com/tech-article/gated-recurrent-unit-gru#:~:text=By%20using%20the%20reset%20gate,more%20complex%20patterns%20in%20sequences.}
+\newblock [Accessed 01-12-2024].
+
+\bibitem{amazonWhatRNN}
+{W}hat is {R}{N}{N}? - {R}ecurrent {N}eural {N}etworks {E}xplained - {A}{W}{S} --- aws.amazon.com.
+\newblock \url{https://aws.amazon.com/what-is/recurrent-neural-network/#:~:text=RNNs%20work%20by%20passing%20the,a%20short%2Dterm%20memory%20component.}
+\newblock [Accessed 30-11-2024].
+
+\bibitem{analyticsvidhyaChallengeVanishingExploding}
+Yash.
+\newblock {T}he {C}hallenge of {V}anishing/{E}xploding {G}radients in {D}eep {N}eural {N}etworks --- analyticsvidhya.com.
+\newblock \url{https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/#h-what-is-vanishing-gradient}.
+\newblock [Accessed 01-12-2024].
+
+\end{thebibliography}
